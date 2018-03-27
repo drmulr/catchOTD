@@ -4,6 +4,10 @@
   "private": true,
   "devDependencies": {
     "concurrently": "3.5.1",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.9.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.7.0",
     "react-scripts": "1.1.1"
   },
   "dependencies": {
@@ -13,6 +17,7 @@
     "re-base": "3.2.2",
     "react": "^16.3.0-alpha.1",
     "react-dom": "^16.3.0-alpha.1",
+    "react-router": "^4.2.0",
     "react-router-dom": "^4.2.2",
     "react-transition-group": "^2.2.1",
     "serve": "^6.5.0",
