@@ -4,8 +4,10 @@ This was built during a training course - a real-time app for a trendy seafood m
 
 The initial load screen is blank, you'll need to build your store, but to see a built out version see below. You can only edit the inventory in your own store:
 
-[https://cotd-hibzqgvjwd.now.sh/store/beautiful-sparkling-fungi](https://cotd-hibzqgvjwd.now.sh/store/beautiful-sparkling-fungi)
+Sample Data Filled: [https://cotd-hibzqgvjwd.now.sh/store/beautiful-sparkling-fungi](https://cotd-hibzqgvjwd.now.sh/store/beautiful-sparkling-fungi)
 
-[https://zeit.co/now](https://zeit.co/now)
+No Data: [https://cotd-hibzqgvjwd.now.sh](https://cotd-hibzqgvjwd.now.sh)
+
+
 
 ![Screenshot](https://github.com/drmulr/catchOTD/blob/master/public/images/screenShot-cotd.png?raw=true)
